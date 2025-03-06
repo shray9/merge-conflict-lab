@@ -1,2 +1,7 @@
 This is the initial content.
+<<<<<<< HEAD
 This is Developer 1's change in dev branch.
+=======
+This is Developer 2's change in feature branch.
+
+>>>>>>> feature
