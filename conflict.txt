@@ -1,2 +1,2 @@
 This is the initial content.
-This is the updated content by Developer 1.
+This is Developer 1's change in dev branch.
